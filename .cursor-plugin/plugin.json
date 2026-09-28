@@ -1,0 +1,14 @@
+{
+  "name": "sharedbrief",
+  "version": "1.0.0",
+  "description": "Create private drafts and publish shareable, unlisted briefs from selected conversation content.",
+  "author": {
+    "name": "Lakshman Mody",
+    "email": "support@sharedbrief.com"
+  },
+  "homepage": "https://www.sharedbrief.com",
+  "repository": "https://github.com/lakshman111/sharedbrief-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["briefs", "documents", "sharing", "productivity"],
+  "logo": "https://www.sharedbrief.com/sharedbrief-icon.png"
+}
